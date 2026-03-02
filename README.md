@@ -1,1 +1,2 @@
 # Vendor-Performance-Analysis-
+#This project focuses on analyzing vendor performance using Power BI. It provides insights into vendor-wise sales, revenue, and quantity to identify top and low-performing vendors. The dashboard includes interactive visuals and KPIs to help understand sales trends and vendor contribution. Data was cleaned and transformed to ensure accurate analysis and meaningful business insights.
