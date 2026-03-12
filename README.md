@@ -20,7 +20,7 @@ This data helps evaluate vendor performance based on sales contribution, deliver
 
 ## Tools and Technologies Used
 - SQL – Data extraction and querying
-- Excel / Python – Data cleaning and preprocessing
+- Python – Data cleaning and preprocessing
 - Power BI – Data visualization and dashboard creation
 
 ## Analysis Performed
