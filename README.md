@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://img.icons8.com/fluency/96/000000/box.png" width="80"/>
 
 # Vendor Performance Analysis
 
